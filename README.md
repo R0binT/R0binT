@@ -1,3 +1,17 @@
+<h3 align="center">
+    I code whenever I can, but also the rest of the time.
+</h3>
+
+<div align="center">
+
+    Welcome in my <hell>heaven</hell>
+  
+</div>
+
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Node](https://img.shields.io/badge/nodejs-%23000000.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+
+
 # 💫 About Me:
 🔭 I’m currently working at The Fork
 
