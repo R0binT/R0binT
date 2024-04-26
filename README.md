@@ -8,7 +8,7 @@
   
 </div>
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg2](https://opensource.org/)
 
 
 # 💫 About Me:
