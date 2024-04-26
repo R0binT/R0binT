@@ -1,5 +1,5 @@
 <h3 align="center">
-    I code whenever I can, but also the rest of the time.
+    Building bridges between creativity and functionality in the digital realm.
 </h3>
 
 <div align="center">
