@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working at [The Fork](https://www.thefork.fr/)
+🔭 I’m currently looking for new challenge
 
 
 # 💻 Tech Stack:
