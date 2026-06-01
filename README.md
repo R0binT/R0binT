@@ -26,8 +26,8 @@ const robin = {
 };
 ```
 
-- 🔭 Currently **open to new opportunities** (CDI / freelance missions)
-- 🏗️ Former Tech Lead at **TheFork** — B2B restaurant management platform
+- 🔭 Currently **open to new opportunities**
+- 🏗️ Former Senior Software Engineer at **TheFork** — B2B restaurant management platform
 - 🧠 Passionate about **software architecture**, **observability**, and **DX**
 - 🛠️ I care about code quality: TypeScript strict mode, clean APIs, meaningful metrics
 - 🐟 Powered by fish shell and dark themes
@@ -100,7 +100,7 @@ const robin = {
 
 <div align="center">
 
-[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)
+[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=R0binT&theme=dark&hide_border=false)](https://github.com/R0binT)
 
