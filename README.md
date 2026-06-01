@@ -100,7 +100,7 @@ const robin = {
 
 <div align="center">
 
-[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)count_private=true&v=2)](https://github.com/R0binT)
+[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=R0binT&theme=dark&hide_border=false)](https://github.com/R0binT)
 
@@ -114,17 +114,7 @@ const robin = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=R0binT&include_orgs=true&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/R0binT)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=R0binT&include_orgs=true&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/R0binT)
+[![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=R0binT&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/R0binT)
 
 </div>
 
