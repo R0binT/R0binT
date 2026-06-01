@@ -100,7 +100,7 @@ const robin = {
 
 <div align="center">
 
-[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)
+[![Robin's GitHub stats](https://github-readme-stats-r0bints-projects.vercel.app/api?username=R0binT&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/R0binT)count_private=true&v=2)](https://github.com/R0binT)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=R0binT&theme=dark&hide_border=false)](https://github.com/R0binT)
 
